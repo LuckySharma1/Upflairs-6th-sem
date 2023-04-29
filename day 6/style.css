@@ -1,0 +1,20 @@
+/*  */
+.root{
+    --primarycolor:#E8A0BF;
+    --background-color:#A5D7E8;
+}
+.heading{
+    font-family:'Roboto Slab', serif;
+    
+}
+.Bio{
+    font-family: 'Lato', sans-serif;
+}
+.top-section{
+color: var(--primarycolor);
+background-color: var(--background-color);
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
